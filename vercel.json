@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+package-lock.json
+{"source": "/(.*)", "destination": "/"}
+  ]
+}
